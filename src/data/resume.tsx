@@ -8,9 +8,11 @@ export const DATA = {
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "20 year old Full Stack Developer, Systems Programming Enthusiast and also an Engineering Student.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+  `He is a pre-final year undergraduate at PICT, Pune. With expertise in React.js, Next.js, Node.js, Tailwind CSS, PostgreSQL, MongoDB, Redis, Kafka, Docker, and GCP/AWS, he builds scalable and efficient applications.
+  He is also an active competitive programmer, achieving Pupil @ Codeforces, 3-Star @ CodeChef, and Rank 1244 in the ICPC Preliminary Round.
+  He worked as a Software Developer Intern at Attack.Capital (YC W22), a Y-Combinator backed startup, contributing to cutting-edge solutions. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
   avatarUrl: "/profile.jpg",
   skills: [
     "React",
