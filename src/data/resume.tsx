@@ -17,12 +17,18 @@ export const DATA = {
   skills: [
     "React",
     "Next.js",
+    "ShadCN",
+    "Javascript",
     "Typescript",
     "Node.js",
     "Go",
     "Postgres",
+    "MySQL",
+    "MongoDB",
     "Redis",
     "Prisma",
+    "GCP",
+    "AWS",
     "CI/CD",
     "Docker",
     "Kubernetes",
@@ -31,44 +37,36 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "shreekargade2004@gmail.com",
+    tel: "+917666439458",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/Shreekar11",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/shreekar-gade-2a9937257/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/Shreekar_11",
         icon: Icons.x,
 
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
         navbar: true,
       },
       email: {
         name: "Send Email",
         url: "#",
         icon: Icons.email,
-
         navbar: false,
       },
     },
@@ -169,36 +167,30 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "Alumni Portal",
+      href: "https://alumniportal-test.netlify.app/",
+      dates: "June 2024 - Aug 2024",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Alumni Portal is a Networking Platform for connecting the alumni of the organization with the students. The platform has over 1200+ active users. Implemented RESTful APIs for user profile and managed integration of back-end with front-end. Built a seamless user interface for user profile page.",
       technologies: [
+        "Node.js",
         "Next.js",
         "Typescript",
         "PostgreSQL",
-        "Prisma",
+        "Docker",
+        "AWS S3",
         "TailwindCSS",
-        "Stripe",
         "Shadcn UI",
-        "Magic UI",
       ],
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://alumniportal-test.netlify.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/alumni.jpg",
     },
     {
       title: "llm.report",
