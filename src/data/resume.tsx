@@ -10,9 +10,9 @@ export const DATA = {
   description:
     "20 year old Full Stack Developer, Systems Programming Enthusiast and also an Engineering Student.",
   summary:
-  `He is a pre-final year undergraduate at PICT, Pune. With expertise in React.js, Next.js, Node.js, Tailwind CSS, PostgreSQL, MongoDB, Redis, Kafka, Docker, and GCP/AWS, he builds scalable and efficient applications.
-  He is also an active competitive programmer, achieving Pupil @ Codeforces, 3-Star @ CodeChef, and Rank 1244 in the ICPC Preliminary Round.
-  He worked as a Software Developer Intern at Attack.Capital (YC W22), a Y-Combinator backed startup, contributing to cutting-edge solutions. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
+  `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications.
+  He is also an active competitive programmer, achieving **Pupil** @ Codeforces, **3-Star** @ CodeChef, and **Rank 1244** in the **ICPC Preliminary Round**.
+  He worked as a Software Developer Intern at **Attack.Capital (YC W22)**, a **Y-Combinator** backed startup, contributing to cutting-edge solutions. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
   avatarUrl: "/profile.jpg",
   skills: [
     "React",
@@ -193,66 +193,60 @@ export const DATA = {
       image: "/alumni.jpg",
     },
     {
-      title: "llm.report",
-      href: "https://llm.report",
-      dates: "April 2023 - September 2023",
+      title: "Pictofest",
+      href: "https://pictofest.in",
+      dates: "Jan 2024 - March 2024",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "Pictofest is a Event Management and Voting system platform. The platform received over 2300+ user registrations.",
       technologies: [
         "Next.js",
+        "Node.js",
         "Typescript",
         "PostgreSQL",
-        "Prisma",
+        "AWS",
+        "Firebase",
         "TailwindCSS",
         "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
       ],
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://pictofest.in",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/pictofest.png",
+    },
+    {
+      title: "Sticky Notes",
+      href: "https://sticky-notes-liart.vercel.app/",
+      dates: "March 2024 - April 2024",
+      active: true,
+      description:
+        "Sticky Notes is an application where the user can create, edit, delete their sticky notes. The sticky notes will be available to other users on the basis of its type i.e Public or Private.",
+      technologies: [
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "Typescript",
+        "PostgreSQL",
+        "TailwindCSS",
+        "Shadcn UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://sticky-notes-liart.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/Shreekar11/Sticky-Notes",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
-    },
-    {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
-      active: true,
-      description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://automatic.chat",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+      image: "/notes.png",
     },
   ],
   hackathons: [
