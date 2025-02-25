@@ -74,7 +74,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Attack Capital (YC W22)",
+      company: "Attack.Capital (YC W22)",
       href: "https://attack.capital",
       badges: [],
       location: "New York, USA (Remote)",
