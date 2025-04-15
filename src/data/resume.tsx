@@ -9,8 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/pune",
   description:
     "20 year old Full Stack Developer, Systems Programming Enthusiast and also an Engineering Student.",
-  summary:
-  `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications.
+  summary: `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications.
   He worked as a **Software Developer Intern** at **Attack.Capital (YC W22)**, a **Y-Combinator** backed startup, contributing to cutting-edge solutions.
   He is also an active competitive programmer, achieving **Pupil** @ Codeforces, **3-Star** @ CodeChef, and **Rank 1244** in the **ICPC Preliminary Round**. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
   avatarUrl: "/profile.jpg",
@@ -35,9 +34,7 @@ export const DATA = {
     "Java",
     "C++",
   ],
-  navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },
-  ],
+  navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
     email: "shreekargade2004@gmail.com",
     tel: "+917666439458",
@@ -163,6 +160,36 @@ export const DATA = {
         },
       ],
       image: "/workflows.png",
+      video: "",
+    },
+    {
+      title: "InterviewPrep - AI-Powered Interview Assistant",
+      href: "https://interviewprep-sigma.vercel.app/",
+      dates: "Jan 2025 - Mar 2025",
+      active: true,
+      description:
+        "This project is an AI-powered interview platform with a split architecture: a Next.js/Supabase main system and a Python backend for LiveKit-based video interviews. It allows users to create customized AI interviews with configurable questions and interviewer styles. Built using TypeScript, Next.js, PostgreSQL, and Gemini AI.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Supabase",
+        "Docker",
+        "LiveKit",
+        "Python",
+        "Gemini AI",
+        "TailwindCSS",
+        "Shadcn UI",
+        "Magic UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://interviewprep-sigma.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/interview.png",
       video: "",
     },
     {
