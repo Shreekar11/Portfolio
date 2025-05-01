@@ -192,6 +192,11 @@ export const DATA = {
           href: "https://interviewprep-sigma.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source",
+          href: "https://github.com/Shreekar11/AI-Interviewer",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "/interview.png",
       video: "",
