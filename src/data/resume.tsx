@@ -88,6 +88,7 @@ export const DATA = {
       • Architected distributed system with Docker containers on GCP, implementing load balancing for LiveKit agents, increasing system capacity by 30%\n
       • Designed asynchronous mailing service using Redis queues and worker processes, processing 1000+ daily emails. Successfully hosted Redis database over VM with Docker\n
       • Implemented CI/CD pipeline using GitHub Actions and Docker, significantly reducing deployment time by 60% through automated build, and deployment processes\n
+      • Managed full infrastructure deployment across multiple GCP VMs, configured Nginx as a reverse proxy, and automated SSL certificate renewal, achieving 99.9% uptime with enhanced security\n
       `,
     },
     {
@@ -99,13 +100,13 @@ export const DATA = {
       logoUrl: "/matlync.jpg",
       start: "Feb 2024",
       end: "April 2024",
-      description: `• Developed a Chat Support Feature enabling users to raise issues and have 
+      description: `• Developed a chat support feature enabling users to raise issues and have 
         real-time conversation with admin. Implemented real-time chat, notification 
         features, and email notifications. Worked with the user side interface as a 
         Chrome Extension. \n
         • Worked on a robust admin dashboard application including create, update, 
         delete and share profile feature. \n
-        • Collaborated and Debugged errors while Developing and Deploying the 
+        • Collaborated and debugged errors while developing and deploying the 
         projects which increased the efficiency of the project by 26%.`,
     },
   ],
