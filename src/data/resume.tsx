@@ -136,7 +136,7 @@ export const DATA = {
       dates: "Jan 2025 - Jan 2025",
       active: true,
       description:
-        "Workflow Automation enables seamless automation of your workflows. Users can effortlessly create workflows and configure them to the available trigger providers and multiple available actions with precision. Designed with a robust event-driven architecture, the application ensures reliable and asynchronous execution of actions upon each trigger.",
+        "Workflow Automation enables seamless automation of your workflows. Users can effortlessly create workflows and configure them to the available trigger providers and multiple available actions with precision or use pre-built AI-powered templates. Designed with a robust event-driven architecture, the application ensures reliable and asynchronous execution of actions upon each trigger, providing high performance.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -172,7 +172,7 @@ export const DATA = {
       dates: "Jan 2025 - Mar 2025",
       active: true,
       description:
-        "This project is an AI-powered interview platform with a split architecture: a Next.js/Supabase main system and a Python backend for LiveKit-based video interviews. It allows users to create customized AI interviews with configurable questions and interviewer styles. Built using TypeScript, Next.js, PostgreSQL, and Gemini AI.",
+        "InterviewPrep streamlines the interview preparation process using AI-driven technology. Users can choose between two modes: Personal Interviews, tailored specifically to their profile, and Custom Interviews, designed based on selected skills and job descriptions. The platform is built with TypeScript, Next.js, Supabase, LiveKit and Gemini ensuring a robust and scalable user experience.",
       technologies: [
         "Next.js",
         "Typescript",
