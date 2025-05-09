@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "20 year old Full Stack Developer, Systems Programming Enthusiast and also an Engineering Student.",
   summary: `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications.
-  He worked as a **Software Developer Intern** at **Attack.Capital (YC W22)**, a **Y-Combinator** backed startup, contributing to cutting-edge solutions.
+  He worked as a **Software Developer Intern** at **Attack Capital (YC W22)**, a **Y-Combinator** backed startup, contributing to cutting-edge solutions.
   He is also an active competitive programmer, achieving **Pupil** @ Codeforces, **3-Star** @ CodeChef, and **Rank 1244** in the **ICPC Preliminary Round**. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
   avatarUrl: "/profile.jpg",
   skills: [
@@ -74,7 +74,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Attack.Capital (YC W22)",
+      company: "Attack Capital (YC W22)",
       href: "https://attack.capital",
       badges: [],
       location: "New York, USA (Remote)",
