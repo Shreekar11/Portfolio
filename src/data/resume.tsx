@@ -77,7 +77,7 @@ export const DATA = {
       company: "Atlan",
       href: "https://atlan.com",
       badges: [],
-      location: "New York, USA (Remote)",
+      location: "San Francisco, California, United states (Remote)",
       title: "Software Engineer Intern",
       logoUrl: "/atlan_hq_logo.jpeg",
       start: "June 2025",
