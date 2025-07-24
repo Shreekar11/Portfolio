@@ -102,7 +102,7 @@ export const DATA = {
       start: "June 2024",
       end: "Dec 2024",
       description: `
-      • Led development of JoinArena.ai – An AI-powered hiring platform serving 100+ clients with 1,500+ applicants, built using Next.js and Node.js in TypeScript\n
+      • Led development of JoinArena.ai – An AI-powered hiring platform, built using Next.js and Node.js in TypeScript\n
       • Engineered real-time video interviewing system using LiveKit SDK, implementing AI voice assistant and WebRTC, improving user engagement by 54%\n
       • Architected distributed system with Docker containers on GCP, implementing load balancing for LiveKit agents, increasing system capacity by 30%\n
       • Designed asynchronous mailing service using Redis queues and worker processes, processing 1000+ daily emails. Successfully hosted Redis database over VM with Docker\n
