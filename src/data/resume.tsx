@@ -11,8 +11,6 @@ export const DATA = {
     "20 year old Full-Stack Engineer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
   summary: `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Kubernetes**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications. \n
   He's currently working at **Atlan** as a **Software Engineer Intern**. Atlan is a fast-growing **Series C** startup valued at **~$1B** and recently recognized as a Visionary in the 2025 **Gartner Magic Quadrant**. Atlan is a modern data workspace that enables seamless collaboration across data teams, analysts, and engineers. \n
-  At Atlan, he builds solutions that enhance **customer experience** and operational efficiency. He contributed to **Microsoft Teams native app** that reduced onboarding friction by **90%**, turning a multi-step process into a seamless one-click setup. He also led key infrastructure migrations from **DynamoDB** to **PostgreSQL**, **optimizing deployment** consistency and reducing overhead. \n
-  His work spans **full-stack development** and **DevOps**—ranging from deploying services on **Kubernetes** using **Helm** and **ArgoCD** to automating **CI/CD pipelines** with **GitHub Actions** and **Docker**. He has also resolved critical **customer issues**, such as **PowerBI** report parsing in the **Chrome extension**, and led **internationalization (i18n)** efforts across the module. \n
   Previously he had worked as a **Software Engineer Intern** at **Attack Capital (YC W22)**, a **Y-Combinator** backed startup, contributing to cutting-edge solutions. \n
   He is also an active competitive programmer, achieving **Pupil** @ Codeforces, **3-Star** @ CodeChef, and **Rank 1244** in the **ICPC Preliminary Round**. Always eager to learn, he thrives on solving complex problems and work on scalable projects.`,
   avatarUrl: "/profile.jpg",
@@ -86,13 +84,8 @@ export const DATA = {
       start: "June 2025",
       end: "Present",
       description: `
-        We're a modern data workspace enabling better collaboration between diverse users like business, analysts, and engineers — creating higher efficiency and agility in data projects. Think what Github did for engineering teams or Figma for Design. Today, we are proud to enable pioneering data teams like Postman, Plaid, WeWork, Unilever & Ralph Lauren.\n
-        \n
-        We're backed by top investors like Insight, Sequoia & Waterbridge and proud to count the shapers of the modern data stack, the founders & CEOs of Snowflake, Looker, Stitch, DataRobot & more as investors.\n
-        \n
-        🚀 Atlan was recognised as a Gartner Cool Vendor in the inaugural report on DataOps, the fastest company to make the list since launch.\n
-        \n
-        Atlan started as an internal tool for our own data team at SocialCops, which over time made us 6X more agile. Everything we do today is shaped by our learnings as a data team ourselves. We're building with lots of 💙.... for the humans of data by the humans of data
+      • At Atlan, he builds solutions that enhance **customer experience** and operational efficiency. He contributed to **Microsoft Teams native app** that reduced onboarding friction by **90%**, turning a multi-step process into a seamless one-click setup. He also led key infrastructure migrations from **DynamoDB** to **PostgreSQL**, **optimizing deployment** consistency and reducing overhead. \n
+      • His work spans **full-stack development** and **DevOps**—ranging from deploying services on **Kubernetes** using **Helm** and **ArgoCD** to automating **CI/CD pipelines** with **GitHub Actions** and **Docker**. He has also resolved critical **customer issues**, such as **PowerBI** report parsing in the **Chrome extension**, and led **internationalization (i18n)** efforts across the module. \n
       `
     },
     {
