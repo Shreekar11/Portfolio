@@ -84,8 +84,9 @@ export const DATA = {
       start: "June 2025",
       end: "Present",
       description: `
-      • At Atlan, he builds solutions that enhance **customer experience** and operational efficiency. He contributed to **Microsoft Teams native app** that reduced onboarding friction by **90%**, turning a multi-step process into a seamless one-click setup. He also led key infrastructure migrations from **DynamoDB** to **PostgreSQL**, **optimizing deployment** consistency and reducing overhead. \n
-      • His work spans **full-stack development** and **DevOps**—ranging from deploying services on **Kubernetes** using **Helm** and **ArgoCD** to automating **CI/CD pipelines** with **GitHub Actions** and **Docker**. He has also resolved critical **customer issues**, such as **PowerBI** report parsing in the **Chrome extension**, and led **internationalization (i18n)** efforts across the module. \n
+      • At Atlan, he builds solutions that enhance customer experience and operational efficiency. He contributed to Microsoft Teams native app that reduced onboarding friction by 90%, turning a multi-step process into a seamless one-click setup. \n
+      • He migrated DynamoDB to PostgreSQL for common-ingress server, leveraging existing cloud infrastructure and internal cloud-common repository. \n
+      • His work spans full-stack development and DevOps—ranging from deploying services on Kubernetes using Helm and ArgoCD to automating CI/CD pipelines with GitHub Actions and Docker. He has also resolved critical customer issues, such as PowerBI report parsing in the Chrome extension, and led internationalization (i18n) efforts across the module. \n
       `
     },
     {
