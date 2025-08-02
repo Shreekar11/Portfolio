@@ -276,7 +276,7 @@ export const DATA = {
       dates: "April 2025 - April 2025",
       active: true,
       description:
-        "QueryFlow is an application that allows users to write, execute, and manage SQL queries with a focus on usability, performance, and advanced functionality. Core features include a SQL query editor for executing queries, a dropdown for selecting predefined queries, and a table for displaying data. Additional features include virtualization for rendering large datasets to optimize performance, query history, searchable query history, CSV export, data sorting, and dark mode to enhance the user experience. The project showcases various functionalities, performance optimizations, and a user-focused layout design.",
+        "QueryFlow is an application that allows users to write, execute, and manage SQL queries with a focus on usability, performance, and advanced functionality. Core features include a SQL query editor for executing queries, a dropdown for selecting predefined queries, and a table for displaying data. The project showcases various functionalities, performance optimizations, and a user-focused layout design.",
       technologies: [
         "React.js",
         "Typescript",
