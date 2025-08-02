@@ -8,7 +8,7 @@ export const DATA = {
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "20 year old Full Stack Developer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
+    "20 year old Full-Stack Engineer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
   summary: `He is a pre-final year undergraduate at PICT, Pune. With expertise in **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **MongoDB**, **Redis**, **Kafka**, **Kubernetes**, **Docker**, and **GCP/AWS**, he builds **scalable** and efficient applications. \n
   He's currently working at **Atlan** as a **Software Engineer Intern**. Atlan is a fast-growing **Series C** startup valued at **~$1B** and recently recognized as a Visionary in the 2025 **Gartner Magic Quadrant**. Atlan is a modern data workspace that enables seamless collaboration across data teams, analysts, and engineers. \n
   At Atlan, he builds solutions that enhance **customer experience** and operational efficiency. He contributed to **Microsoft Teams native app** that reduced onboarding friction by **90%**, turning a multi-step process into a seamless one-click setup. He also led key infrastructure migrations from **DynamoDB** to **PostgreSQL**, **optimizing deployment** consistency and reducing overhead. \n
